@@ -1,2 +1,2 @@
 # miscellaneous
-Miscellaneous scripts
+Miscellaneous scripts for various projects at GLC
